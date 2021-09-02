@@ -1,3 +1,2 @@
 # gitlab
-moj pokus
-skuska
+devops devops 
