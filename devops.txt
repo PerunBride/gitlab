@@ -1,0 +1,3 @@
+moj druhy pokus devops
+zatial to ide
+git je super
